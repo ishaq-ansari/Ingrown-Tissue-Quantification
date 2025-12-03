@@ -207,8 +207,7 @@ Please ensure your changes are tested and documented in the README.
 
 ## License
 
-This project does not include a license file. If you want to add a license, choose an appropriate open-source license and add a `LICENSE` file at the repository root.
-
+None 
 ---
 
 For any other questions, please open an issue or contact the repository owner.
